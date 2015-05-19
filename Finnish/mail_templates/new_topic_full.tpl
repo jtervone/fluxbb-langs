@@ -1,18 +1,18 @@
-Subject: New topic in forum: '<forum_name>'
+Subject: Uusi aihe keskustelualueella: '<forum_name>'
 
-<poster> has posted a new topic '<topic_subject>' in the forum '<forum_name>', to which you are subscribed.
+<poster> on aloittanut uuden aiheen '<topic_subject>' keskustelualueella '<forum_name>', jonka päivitykset olet tilannut.
 
-The topic is located at <topic_url>
+Aihe löytyy osoitteesta <topic_url>
 
-The message reads as follows:
+Viesti:
 -----------------------------------------------------------------------
 
 <message>
 
 -----------------------------------------------------------------------
 
-You can unsubscribe by going to <unsubscribe_url>
+Voit lopettaa aiheen seuraamisen osoitteessa <unsubscribe_url>
 
 --
 <board_mailer> Mailer
-(Do not reply to this message)
+(Älä vastaa tähän viestiin)

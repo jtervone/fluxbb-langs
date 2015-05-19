@@ -1,8 +1,8 @@
 Subject: <mail_subject>
 
-<sender> from <board_title> has sent you a message. You can reply to <sender> by replying to this email.
+<sender> keskustelualueelta <board_title> on lähettänyt sinulle viestin. Voit vastata käyttäjän <sender> viestiin vastaamalla tähän sähköpostiin.
 
-The message reads as follows:
+Viesti kuuluu näin:
 -----------------------------------------------------------------------
 
 <mail_message>
@@ -11,3 +11,4 @@ The message reads as follows:
 
 --
 <board_mailer> Mailer
+(Älä vastaa tähän viestiin)

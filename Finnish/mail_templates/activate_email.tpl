@@ -9,4 +9,4 @@ To change your email address, please visit the following page:
 
 --
 <board_mailer> Mailer
-(Do not reply to this message)
+(Älä vastaa tähän viestiin)

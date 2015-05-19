@@ -1,18 +1,18 @@
-Subject: Reply to topic: '<topic_subject>'
+Subject: Vastaus aiheeseen: '<topic_subject>'
 
-<replier> has replied to the topic '<topic_subject>' to which you are subscribed. There may be more new replies, but this is the only notification you will receive until you visit the board again.
+<replier> on kirjoittanut vastauksen aiheeseen '<topic_subject>', jota seuraat. Aiheessa voi olla muitakin uusia viestejä, mutta tämä on ainoa ilmoitus, jonka saat ennenkä käyt lukemassa viestin.
 
-The post is located at <post_url>
+Viesti löytyy osoitteesta <post_url>
 
-The message reads as follows:
+Viesti kuuluu näin:
 -----------------------------------------------------------------------
 
 <message>
 
 -----------------------------------------------------------------------
 
-You can unsubscribe by going to <unsubscribe_url>
+Voit lopettaa aiheen seuraamisen käymällä osoitteessa <unsubscribe_url>
 
 --
 <board_mailer> Mailer
-(Do not reply to this message)
+(Älä vastaa tähän viestiin)
