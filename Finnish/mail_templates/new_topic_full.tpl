@@ -1,18 +1,18 @@
-Subject: Uusi otsikko forumilla: '<forum_name>'
+Subject: New topic in forum: '<forum_name>'
 
-<poster> on luonut uuden otsikon'<topic_subject>' forumiin'<forum_name>', jota seuraat.
+<poster> has posted a new topic '<topic_subject>' in the forum '<forum_name>', to which you are subscribed.
 
-Viesti on seuraavanlainen:
+The topic is located at <topic_url>
+
+The message reads as follows:
 -----------------------------------------------------------------------
 
 <message>
 
 -----------------------------------------------------------------------
 
-Otsikko löytyy osoitteesta <topic_url>
-
-Voit lakata seuraamasta forumia osoitteessa <unsubscribe_url>
+You can unsubscribe by going to <unsubscribe_url>
 
 --
-<board_mailer>
-(Älä vastaa tähän viestiin)
+<board_mailer> Mailer
+(Do not reply to this message)

@@ -1,8 +1,8 @@
 Subject: <mail_subject>
 
-<sender> laudalta <board_title> on lähettänyt sinulle vesting. Voit vastata lähettäjälle vastaamalla tähän sähköpostiin.
+<sender> from <board_title> has sent you a message. You can reply to <sender> by replying to this email.
 
-Viesti on seuraavanlainen:
+The message reads as follows:
 -----------------------------------------------------------------------
 
 <mail_message>
@@ -10,4 +10,4 @@ Viesti on seuraavanlainen:
 -----------------------------------------------------------------------
 
 --
-<board_mailer>
+<board_mailer> Mailer

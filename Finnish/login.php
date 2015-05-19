@@ -1,27 +1,26 @@
 <?php
 
 // Language definitions used in login.php
-// Finnish translation by Pauligrinder
 $lang_login = array(
 
 // Miscellaneous
-'Wrong user/pass'			=>	'Väärä käyttäjänimi ja/tai salasana.',
+'Wrong user/pass'			=>	'Väärä käyttäjätunnus tai salasana',
 'Forgotten pass'			=>	'Unohditko salasanasi?',
-'Login redirect'			=>	'Onnistuit kirjautumaan. Siirrytään …',
-'Logout redirect'			=>	'Kirjauduit ulos. Siirrytään …',
-'No email match'			=>	'Tällä sähköpostiosoitteella ei ole rekisteröidytty',
+'Login redirect'			=>	'Kirjautuminen onnistui. Odota hetki…',
+'Logout redirect'			=>	'Uloskirjautuminen onnistui. Odota hetki…',
+'No email match'			=>	'Rekisteröityneitä käyttäjiä ei löytynyt antamallasi sähköpostiosoitteella.',
 'Request pass'				=>	'Pyydä uusi salasana',
-'Request pass legend'		=>	'Syötä sähköpostiosoite jolla rekisteröidyit',
-'Request pass info'			=>	'Osoitteeseen lähetetään uusi salasana ja kirjautumislinkki.',
-'Not registered'			=>	'Etkö ole rekisteröitynyt vielä?',
-'Login legend'				=>	'Syötä käyttäjänimi ja salasana.',
-'Remember me'				=>	'Kirjaudu automaattisesti sisään joka kerta.',
-'Login info'				=>	'Jos et ole rekisteröitynyt tai olet unohtanut salasanasi/käyttänimesi niin käytä asianmukaista linkkiä.',
-'New password errors'			=>	'Uuden salasanan luonti epäonnistui',
-'New passworderrors info'		=>	'Seuraava(t) virheet pitää korjata ennen kuin saat uuden salasanan:',
+'Request pass legend'		=>	'Anna sähköpostiosoite, jolla olet rekisteröitynyt keskustelualueelle.',
+'Request pass info'			=>	'Uusi salasana yhdessä salasanan aktivointilinkin kanssa on lähetetty antamaasi sähköpostiosoitteeseen.',
+'Not registered'			=>	'Ei käyttäjätunnusta vielä?',
+'Login legend'				=>	'Kirjoita käyttäjätunnuksesi ja salasanasi alle',
+'Remember me'				=>	'Kirjaudu automaattisesti.',
+'Login info'				=>	'Jos et ole rekisteröitynyt tai olet unohtanut salasanasi, paina alla olevaa linkkiä.',
+'New password errors'		=>	'Salasanan pyytämisessä tapahtui virhe',
+'New passworderrors info'	=>	'Seuraavat virheet tulee korjata ennenkä uusi salasana voidaan lähettää:',
 
 // Forget password mail stuff
-'Forget mail'				=>	'Sinulle on lähetetty sähköposti jossa on lisäohjeita. Jos sähköpostia ei tule, ota yhteyttä ylläpitoon',
-'Email flood'				=>	'Olet pyytänyt jo kerran uutta salasanaa tunnin sisällä. Kokeile myöhemmin uudelleen.'
+'Forget mail'				=>	'Neuvot salasanan vaihtamiseen on lähetetty antamaasi sähköpostiosoitteeseen. Jos et saa sähköpostia, ota yhteyttä ylläpitäjiin osoitteeseen',
+'Email flood'				=>	'Käyttäjätunnuksen salasana on uusittu kuluneen tunnin aikana. Odota %s minuuttia, kunnes voit pyytää salasanan uusimista uudestaan.'
 
 );

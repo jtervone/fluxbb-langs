@@ -1,18 +1,17 @@
 <?php
 
 // Language definitions used in viewforum.php
-// Finnish translation by Pauligrinder
 $lang_forum = array(
 
-'Post topic'		=>	'Aloita uusi otsikko.',
-'Views'             =>	'Katsottu',
-'Moved'             =>	'Siirretty:',
-'Sticky'            =>	'Liimattu:',
-'Closed'            =>	'Suljettu:',
-'Empty forum'		=>	'Forumi on tyhjä.',
-'Mod controls'		=>	'Moderaattorin asetukset',
-'Is subscribed'		=>	'Seuraat tällä hetkellä tätä forumia',
-'Unsubscribe'		=>	'Lopeta seuranta',
-'Subscribe'         =>	'Seuraa tätä forumia'
+'Post topic'	=>	'Luo uusi aihe',
+'Views'			=>	'Katsottu',
+'Moved'			=>	'Siirretty:',
+'Sticky'		=>	'Nosto:',
+'Closed'		=>	'Suljettu:',
+'Empty forum'	=>	'Alue on tyhjä.',
+'Mod controls'	=>	'Moderaattorin työkalut',
+'Is subscribed'	=>	'Olet tilannut tämän alueen',
+'Unsubscribe'	=>	'Peru tilaus',
+'Subscribe'		=>	'Tilaa tämä alue'
 
 );

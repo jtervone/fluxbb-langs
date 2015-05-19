@@ -1,12 +1,12 @@
-Subject: Tervetuloa <board_title>:lle!
+Subject: Welcome to <board_title>!
 
-Kiitos kun rekisteröit forumille osoitteessa <base_url>. Tietosi ovat:
+Thank you for registering in the forums at <base_url>. Your account details are:
 
-Käyttäjänimi: <username>
-Salasana: <password>
+Username: <username>
+Password: <password>
 
-Kirjaudu osoitteessa <login_url> aktivoidaksesi käyttäjätilisi.
+Login at <login_url> to activate the account.
 
 --
-<board_mailer>
-(Älä vastaa tähän viestiin)
+<board_mailer> Mailer
+(Do not reply to this message)

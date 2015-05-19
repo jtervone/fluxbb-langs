@@ -1,14 +1,14 @@
-Subject: Salasananvaihtopyyntö
+Subject: New password requested
 
-Hei <username>,
+Hello <username>,
 
-Olet pyytänyt uutta salasanaa forumille sijainnissa <base_url>. Jätä tamä huomioimatta jos et pyytänyt uutta salasanaa tai et halua vaihtaa. Salasana vaihtuu vain jos käyt aktivointisivulla.
+You have requested to have a new password assigned to your account in the discussion forum at <base_url>. If you didn't request this or if you don't want to change your password you should just ignore this message. Only if you visit the activation page below will your password be changed.
 
-Uusi salasanasi on: <new_password>
+Your new password is: <new_password>
 
-Käy tällä sivulle vaihtaaksesi salasanaa:
+To change your password, please visit the following page:
 <activation_url>
 
 --
-<board_mailer>
-(Älä vastaa tähän viestiin)
+<board_mailer> Mailer
+(Do not reply to this message)

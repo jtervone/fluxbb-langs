@@ -1,21 +1,20 @@
 <?php
 
 // Language definitions used in index.php
-// Finnish translation by Pauligrinder
 $lang_index = array(
 
-'Topics'		=>	'Otsikoita',
-'Link to'		=>	'Linkki osoitteeseen :', // As in "Link to: http://fluxbb.org/"
-'Empty board'	=>	'Lauta on tyhjä.',
-'Newest user'	=>	'Uusin käyttäjä: %s',
-'Users online'	=>	'Paikallaolevien jäsenten määrä: %s',
-'Guests online'	=>	'Vieraita paikalla: %s',
-'No of users'	=>	'Jäsenten määrä: %s',
-'No of topics'	=>	'Aiheiden määrä: %s',
-'No of posts'	=>	'Kirjoitusten määrä: %s',
-'Online'        =>	'Paikalla:', // As in "Online: User A, User B etc."
-'Board info'	=>	'Laudan tiedot',
-'Board stats'	=>	'Laudan statsit',
-'User info'     =>	'Käyttäjän tiedot'
+'Topics'		=>	'Aiheet',
+'Link to'		=>	'Linkki:', // As in "Link to: http://fluxbb.org/"
+'Empty board'	=>	'Keskustelualue on tyhjä.',
+'Newest user'	=>	'Uusin rekisteröitynyt käyttäjä: %s',
+'Users online'	=>	'Rekisteröityneitä käyttäjiä kirjautuneena: %s',
+'Guests online'	=>	'Vierasta kirjautuneena: %s',
+'No of users'	=>	'Rekisteröityneitä käyttäjiä yhteensä: %s',
+'No of topics'	=>	'Aiheita yhteensä: %s',
+'No of posts'	=>	'Viestejä yhteensä: %s',
+'Online'		=>	'Paikalla:', // As in "Online: User A, User B etc."
+'Board info'	=>	'Tietoja keskustelualueesta',
+'Board stats'	=>	'Tilastoja keskustelualueesta',
+'User info'		=>	'Käyttäjätieto'
 
 );

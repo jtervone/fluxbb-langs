@@ -1,61 +1,66 @@
 <?php
 
 // Language definitions used in help.php
-// Finnish translation by Pauligrinder
 $lang_help = array(
 
-'Help'					=>	'Apu',
+'Help'					=>	'Ohje',
 'produces'				=>	'tuottaa',
 
 'BBCode'				=>	'BBCode',
-'BBCode info 1'			=>	'BBCode on kokoelma formatointitageja, joiden avulla voit muokata forumin tekstin ulkonäköä. BBCode perustuu samaan periaatteeseen kuin HTML, ja on hyvin samankaltaista. Alempaa löydät listan kaikista käytettävissä olevista BBCodeista ja niiden käyttöohjeet.',
-'BBCode info 2'			=>	'Ylläpitäjät voivat ottaa käyttöön tai poistaa käytöstä BBCoden. Näet sivun vasemmasta laidasta onko BBCode käytössä vai ei kun kirjoitat viestiä tai muokkaat allekirjoitustasi.',
+'BBCode info 1'			=>	'BBCode-tagit on kokoelma muotoilutageja, joilla voidaan muotoilla tekstiä. BBCode-tagit muistuttaa HTML-tageja. Alla on lista käytössä olevista BBCode-tageista sekä ohjeet kuinka niitä käytetään.',
+'BBCode info 2'			=>	'Ylläpitäjät voivat sallia tai estää BBCode-tagien käytön. Vasemmasta reunasta näet, jos BBCode-tagit on sallittu allekirjoituksessa',
 
 'Text style'			=>	'Tekstin tyyli',
-'Text style info'		=>	'Seuraavat tagit vaikuttavat tekstin ulkonäköön:',
-'Bold text'				=>	'Lihavoitu teksti',
-'Underlined text'		=>	'Alleviivattu teksti',
-'Italic text'			=>	'Kursivoitu teksti',
-'Strike-through text'	=>	'Yliviivattu teksti',
+'Text style info'		=>	'Seuraavat tagit muuttavat tekstin muotoa:',
+'Bold text'				=>	'Lihavointi',
+'Underlined text'		=>	'Alleviivaus',
+'Italic text'			=>	'Kursiivi',
+'Strike-through text'	=>	'Yliviivaus',
 'Red text'				=>	'Punainen teksti',
 'Blue text'				=>	'Sininen teksti',
-'Heading text'			=>	'Otsikko teksti',
+'Heading text'			=>	'Otsikko',
 'Deleted text'			=>	'Poistettu teksti',
-'Inserted text'			=>	'Liitetty teksti',
+'Inserted text'			=>	'Lisätty teksti',
 'Emphasised text'		=>	'Korostettu teksti',
 
 'Links and images'		=>	'Linkit ja kuvat',
-'Links info'			=>	'Seuraavien tagejen avulla voit luoda linkkejä toisiin tiedostoihin tai sähköpostiosoitteisiin:',
-'My email address'		=>	'Oma sähköpostiosoite',
-'Images info'			=>	'Jos haluat näyttää kuvan voit käyttää img-tagia. "="-merkin jälkeen tuleva teksti avaustagissa on varatty alt atribuutillee ja sitä tulisi käyttä aina kun se on mahdollista.',
-'FluxBB bbcode test'	=>	'FluxBB bbcode testi',
+'Links info'			=>	'Voit luoda linkkejä toisille sivuille tai sähköpostiosoitteisiin käyttämällä seuraavia tageja:',
+'This help page'		=>	'Tämä ohjesivu',
+'My email address'		=>	'Sähköpostiosoitteeni',
+'Images info'			=>	'Jos haluat upottaa kuvan tekstin joukkoon voit käyttää img-tagia. "="-merkin jälkeen tuleva teksti avaustagissa määrittää tekstin, joka näytetään tapauksissa, misää kuvaa ei voida näyttää. Tätä kannattaa käyttää aina, kun se on mahdollista.',
+'FluxBB bbcode test'	=>	'FluxBB BBCode-tagitesti',
+
+'Test topic'			=>	'Testiaihe',
+'Test post'				=>	'Testiviesti',
+'Test forum'			=>	'Testialue',
+'Test user'				=>	'Testikäyttäjä',
 
 'Quotes'				=>	'Lainaukset',
-'Quotes info'			=>	'Jos haluat lainata jonkun tekstiä, sinun tulee käyttää quote-tageja.',
-'Quotes info 2'			=>	'Jos et halua lainata keneltäkään tietyltä henkilöltä, voit käyttää quote-tagia ilmoittamatta nimeä.',
-'Quote text'			=>	'Tämän tekstin haluan lainata.',
-'produces quote box'	=>	'tuottaa tämän näköisen lainauslaatikon:',
-'quote note'			=>	'Huom: Jos käyttäjän nimi sisältää [ tai ] merkin, voit laittaa sen ympärille lainausmerkit.',
+'Quotes info'			=>	'Jos haluat lainata jonkun toisen kirjoittamaa tekstiä, sinun tulee käyttää quote-tagia.',
+'Quotes info 2'			=>	'Jos et halua lainata kenenkään nimetyn tekstiä, voit käyttää quote-tagia ilman nimen määritystä.',
+'Quote text'			=>	'Tässä teksti, jota haluan lainata.',
+'produces quote box'	=>	'Tuottaa lainauksen, joka näyttää tältä:',
+'quote note'			=>	'Huomaa, että jos käyttäjätunnus sisältää [ tai ] merkkejä, voit ympäröidä ne lainausmerkeillä.',
 
 'Code'					=>	'Koodi',
-'Code info'				=>	'Kun haluat näyttää lähdekoodia, kannattaa käyttää code-tageja. Code-tagejen sisällä oleva teksti näytetään monotype-fontilla eivätkä muut tagit vaikuta siihen.',
-'Code text'				=>	'Tämä on koodia.',
-'produces code box'		=>	'tuottaa tällaisen koodilaatikon:',
+'Code info'				=>	'Kun haluat esittää lähdekoodia, kannattaa käyttää code-tagia. Teksti, joka on sijoitettu code-tagin sisään, näytetään monospace-kirjaisimin.',
+'Code text'				=>	'Tässä on jotain koodia.',
+'produces code box'		=>	'tuottaa koodilaatikon, joka näyttää tältä:',
 
 'Nested tags'			=>	'Sisäkkäiset tagit',
-'Nested tags info'		=>	'BBCodeja voi käyttää sisäkkäin, monimutkaisemman formatoinnin luomiseksi. Esimerkiksi:',
+'Nested tags info'		=>	'BBCode-tageja voidaan käyttää sisäkkäin. Esimerkiksi:',
 'Bold, underlined text'	=>	'Lihavoitu ja alleviivattu teksti',
 
 'Lists'					=>	'Listat',
-'List info'				=>	'Luodaksesi listan, voit käyttää list-tagia. Voit luoda 3 eri tyyppistä listaa list-tagilla.',
-'List text 1'			=>	'Listaesimerkki 1.',
-'List text 2'			=>	'Listaesimerkki 2.',
-'List text 3'			=>	'Listaesimerkki 3.',
-'produces list'			=>	'tuottaa listan ranskalaisilla viivoilla.',
+'List info'				=>	'Listojen luomiseen voit käyttää list-tagia. Voit luoda kolmenlaisia listoja list-tagilla.',
+'List text 1'			=>	'Listattu asia 1.',
+'List text 2'			=>	'Listattu asia 2.',
+'List text 3'			=>	'Listattu asia 3.',
+'produces list'			=>	'tuottaa ranskalaisin viivoin tuotetun listan.',
 'produces decimal list'	=>	'tuottaa numeroidun listan.',
-'produces alpha list'	=>	'tuottaa aakkosjärjestetyn listan.',
+'produces alpha list'	=>	'tuottaa aakkostetun listan.',
 
 'Smilies'				=>	'Hymiöt',
-'Smilies info'			=>	'Jos haluat (ja jos asetus on käytössä), forumi voi muuntaa hymiöitä pieniksi hymiöitä vastaaviksi kuviksi. Tämä forumi tunnistaa seuraavat hymiöt ja korvaa ne kuvilla:'
+'Smilies info'			=>	'Jos haluat (ja jos se on sallittua) keskustelualue kääntää suuren osan hymiöistä kuviksi. Tämä keskustelualue tunnistaa seuraavat hymiöt ja korvaa ne seuraavilla kuvilla:'
 
 );

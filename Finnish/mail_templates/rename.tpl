@@ -1,12 +1,12 @@
-Subject: Käyttäjänimesi on vaihtunut
+Subject: User account renamed
 
-Päivityksen aikana, forumilla osoitteessa <base_url> huomattiin että käyttäjänimesi on liian samankaltainen toisen käyttäjän nimen kanssa. Käyttäjänimesi on muutettu seuraavanlaisesti.
+During an upgrade to the forums at <base_url> it was determined your username is too similar to an existing user. Your username has been changed accordingly.
 
-Vanha käyttäjänimi: <old_username>
-Uusi käyttäjänimi: <new_username>
+Old username: <old_username>
+New username: <new_username>
 
-Pahoittelemme mahdollisista epäkäytännöllisyyksistä.
+We apologise for any inconvenience caused.
 
 --
-<board_mailer>
-(Älä vastaa tähän viestiin)
+<board_mailer> Mailer
+(Do not reply to this message)
